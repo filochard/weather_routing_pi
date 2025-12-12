@@ -21,9 +21,9 @@ Development Details: PI Manager (PIM) Workflow uses the Testplugin Template +
 
 *Weather and Land Data: Land Mass, wind, wave and current* 
 
-* xref:opencpn-plugins:chart_downloader_tab:chart_downloader_tab.adoc[Chartdownloader] to download High resolution (GSHHS) required to _Detect Land_.
+* xref:chartdldr::index.adoc[Chartdownloader chartdldr_pi] to download High resolution (GSHHS) required to _Detect Land_.
 * xref:climatology::index.adoc[Climatology_pi] Data for default examples and longer voyages. 30 years of NOAA wind, wave & Current data, averaged by month. Climatology is required to run the Examples.
-* xref:opencpn-plugins:grib_weather:grib_weather.adoc[Grib_pi (grb, grb2)] Data predictive wind, wave & current. Used daily, but not with initial Examples.
+* xref:grib::index.adoc[Grib_pi (grb, grb2)] Data predictive wind, wave & current. Used daily, but not with initial Examples.
 * xref:opencpn-plugins:misc:plugin-install.adoc[Instructions] Install and Enable these plugins now.
 
 *Boat Performance Data: Polar Files*
